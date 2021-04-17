@@ -17,3 +17,7 @@ The background color of the widget reflects the air quality index, an aggregated
 * Red: some members of the general public may experience health effects
 * Purple: the risk of health effects is increased for everyone
 * Maroon: health warning of emergency conditions
+
+This is an example based on the New York City area:
+
+![Image example](https://github.com/gmag95/Weather_App/blob/master/example_image/Weather_app.PNG)
