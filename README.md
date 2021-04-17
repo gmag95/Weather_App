@@ -4,8 +4,8 @@ This widget shows the most relevant weather informations about a specific region
 
 Three parameters are shown by the widget:
 * Ozone: the level of ground-level ozone, an harmful air pollutant
-* PM 10: coarse particles with a diameter of 10 micrometers or less
 * PM 2.5: fine particles with a diameter of 2.5 micrometers or less
+* PM 10: coarse particles with a diameter of 10 micrometers or less
 
 For all three parameters a lower value equals less air pollution
 
